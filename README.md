@@ -32,7 +32,7 @@ JavaScript puro\*\*,donde cada participante es un amigo listo para el sorteo.
 
 
 
-#### \## 📜 \*\***Tabla de Contenidos**\*\*
+#### \## 📋 **Tabla de Contenidos**
 
 
 
@@ -47,8 +47,6 @@ JavaScript puro\*\*,donde cada participante es un amigo listo para el sorteo.
 5\. \[🗂️ Estructura del Proyecto](#️-estructura-del-proyecto)
 
 6\.  \[📜 Licencia](#-licencia)
-
-
 
 ---
 
@@ -138,7 +136,7 @@ validación de inputs y diseño \*\*responsive\*\*.
 
 
 
-###### \## 🛠️ \*\***Tecnologías Utilizadas**\*\*
+##### \## 🛠️ \*\***Tecnologías Utilizadas**\*\*
 
 
 
@@ -174,7 +172,7 @@ validación de inputs y diseño \*\*responsive\*\*.
 
 
 
-###### \## 🚀 \*\***Instalación y Uso Local**\*\*
+##### \## 🚀 \*\***Instalación y Uso Local**\*\*
 
 
 
@@ -182,11 +180,11 @@ validación de inputs y diseño \*\*responsive\*\*.
 
 
 
-```bash
+bash
 
-git clone https://github.com/TU-USUARIO/juego-amigo-secreto.git
+git clone https://github.com/pamelaenriques13/juego-amigo-secreto.git
 
-```
+----
 
 
 
@@ -196,11 +194,12 @@ git clone https://github.com/TU-USUARIO/juego-amigo-secreto.git
 
 
 
-```bash
+bash
 
 cd juego-amigo-secreto
 
-```
+
+----
 
 
 
@@ -218,7 +217,7 @@ cd juego-amigo-secreto
 
 
 
-##### \## 🗂️ \*\***Estructura del Proyecto**\*\*
+#### \## 🗂️ \*\***Estructura del Proyecto**\*\*
 
 
 
@@ -250,7 +249,7 @@ juego-amigo-secreto/
 
 
 
-###### \## 📜 \*\***Licencia**\*\*
+##### \## 📜 \*\***Licencia**\*\*
 
 
 
