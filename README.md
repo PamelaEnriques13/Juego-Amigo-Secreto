@@ -1,4 +1,4 @@
-## \# 🍄 \*\***Amigo Secreto** \*\* 🎮
+# \# 🍄 \*\***Amigo Secreto** \*\* 🎮
 
 
 
@@ -8,7 +8,7 @@
 
 Una \*\*aplicación web retro\*\* para organizar tus sorteos, construida con \*\*HTML, CSS y
 
-JavaScript puro\*\*,donde cada participante es un héroe listo para el sorteo.
+JavaScript puro\*\*,donde cada participante es un amigo listo para el sorteo.
 
 
 
@@ -18,7 +18,7 @@ JavaScript puro\*\*,donde cada participante es un héroe listo para el sorteo.
 
 
 
-|                             \*\***Demo en Vivo**\*\*                            |
+##### |             \*\***Demo en Vivo**\*\*                            |
 
 | :---------------------------------------------------------------------: |
 
@@ -32,7 +32,7 @@ JavaScript puro\*\*,donde cada participante es un héroe listo para el sorteo.
 
 
 
-###### \## 📜 \*\***Tabla de Contenidos**\*\*
+#### \## 📜 \*\***Tabla de Contenidos**\*\*
 
 
 
@@ -56,7 +56,7 @@ JavaScript puro\*\*,donde cada participante es un héroe listo para el sorteo.
 
 
 
-###### \## 🌟 \*\***Descripción del Proyecto**\*\*
+##### \## 🌟 \*\***Descripción del Proyecto**\*\*
 
 
 
@@ -64,13 +64,9 @@ Esta aplicación de una sola página permite a los usuarios crear una lista de p
 
 organizar un sorteo justo de \*\*Amigo Secreto\*\*.
 
-La interfaz, inspirada en videojuegos de 8-bits, ofrece \*\*animaciones y efectos retro\*\*,
-
-donde los elementos aparecen y desaparecen según el estado de la aplicación.
 
 
-
-\*\*Objetivo:\*\* demostrar habilidades en \*\*JavaScript vanilla\*\*, manipulación del \*\*DOM\*\*,
+\*\*Objetivo:\*\* demostrar habilidades en \*\*JavaScript\*\*, manipulación del \*\*DOM\*\*,
 
 validación de inputs y diseño \*\*responsive\*\*.
 
@@ -82,13 +78,13 @@ validación de inputs y diseño \*\*responsive\*\*.
 
 
 
-###### \## 💎 \*\***Características Principales**\*\*
+#### \## 💎 \*\***Características Principales**\*\*
 
 
 
 
 
-\* \*\*👾 **Gestión de Participantes**\*\*
+###### \* \*\*👾 **Gestión de Participantes**\*\*
 
 
 
@@ -100,7 +96,7 @@ validación de inputs y diseño \*\*responsive\*\*.
 
 
 
-\* \*\*🛡️ **Validación Avanzada**\*\*
+###### \* \*\*🛡️ **Validación Avanzada**\*\*
 
 
 
@@ -114,7 +110,7 @@ validación de inputs y diseño \*\*responsive\*\*.
 
 
 
-\* \*\*✨ **Interfaz Dinámica**\*\*
+###### \* \*\*✨ **Interfaz Dinámica**\*\*
 
 
 
@@ -126,7 +122,7 @@ validación de inputs y diseño \*\*responsive\*\*.
 
 
 
-\* \*\*🎲 **Sorteo Aleatorio**\*\*
+###### \* \*\*🎲 **Sorteo Aleatorio**\*\*
 
 
 
@@ -142,7 +138,7 @@ validación de inputs y diseño \*\*responsive\*\*.
 
 
 
-\## 🛠️ \*\***Tecnologías Utilizadas**\*\*
+###### \## 🛠️ \*\***Tecnologías Utilizadas**\*\*
 
 
 
@@ -178,7 +174,7 @@ validación de inputs y diseño \*\*responsive\*\*.
 
 
 
-\## 🚀 \*\***Instalación y Uso Local**\*\*
+###### \## 🚀 \*\***Instalación y Uso Local**\*\*
 
 
 
@@ -196,7 +192,7 @@ git clone https://github.com/TU-USUARIO/juego-amigo-secreto.git
 
 
 
-**2. Navega a la carpeta del proyecto:**
+###### **2. Navega a la carpeta del proyecto:**
 
 
 
@@ -222,7 +218,7 @@ cd juego-amigo-secreto
 
 
 
-###### \## 🗂️ \*\***Estructura del Proyecto**\*\*
+##### \## 🗂️ \*\***Estructura del Proyecto**\*\*
 
 
 
@@ -254,7 +250,7 @@ juego-amigo-secreto/
 
 
 
-\## 📜 \*\***Licencia**\*\*
+###### \## 📜 \*\***Licencia**\*\*
 
 
 
