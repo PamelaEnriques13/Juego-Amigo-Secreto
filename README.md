@@ -102,9 +102,7 @@ validación de inputs y diseño \*\*responsive\*\*.
 
   \* Evita nombres vacíos o duplicados.
 
-  \* Límite de 4 participantes.
-
-
+  
 
 
 
