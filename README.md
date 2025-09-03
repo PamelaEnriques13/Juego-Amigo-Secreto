@@ -24,7 +24,7 @@ JavaScript puro\*\*,donde cada participante es un amigo listo para el sorteo.
 
 
 
-| \*\*➡️ Jugar Ahora](https://pamelaenriques13.github.io/Juego-Amigo-Secreto/)\*\* |
+| \*\*➡️ Jugar Ahora] (https://pamelaenriques13.github.io/Juego-Amigo-Secreto/) \*\* |
 
 
 
